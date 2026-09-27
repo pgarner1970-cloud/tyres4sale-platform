@@ -39,7 +39,7 @@ if (isset($_POST['username'], $_POST['password'])) {
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>LTC Trade Site</title>
+    <title>LTC Trade Site - Login</title>
 
     <!-- Bootstrap core CSS -->
 	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
