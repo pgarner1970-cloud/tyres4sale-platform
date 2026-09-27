@@ -18,7 +18,7 @@ if (isset($_SESSION['username'])) {
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>LTC Tyres & Exhausts Trade Site</title>
+    <title>LTC Trade Site</title>
 
     <!-- Bootstrap core CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
